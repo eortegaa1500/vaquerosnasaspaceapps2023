@@ -11,7 +11,7 @@ HERE ARE SOME USEFUL LINKS:
 
 If you have any comments please leave a comment and we'll answer as soon as we can. Thank you!
 
-
+![Cover](https://github.com/eortegaa1500/vaquerosnasaspaceapps2023/assets/52631711/bb5a766c-0072-48dc-9c82-8475170386e7)
 
 
 
