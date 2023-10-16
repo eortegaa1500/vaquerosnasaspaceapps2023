@@ -6,7 +6,7 @@ HERE ARE SOME USEFUL LINKS:
 -> Notion where we uploaded the details of our project right here:
 https://losvaquerosinterplanetarios.notion.site/Habitable-Exoplanets-Creating-Worlds-Beyond-Our-Own-a476d12f297542bd9b4e7ddbb1ea1b4d?pvs=4
 
--> webpage where our appliction is uploaded: 
+-> Webpage where our app is uploaded: 
 https://spaceappsvaqueros.000webhostapp.com/
 
 -> Link to our demo presentation: 
